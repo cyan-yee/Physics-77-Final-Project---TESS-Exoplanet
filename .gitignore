@@ -1,5 +1,3 @@
-# Check out requirements.txt for packages
-
 # Python cache and compiled files
 __pycache__/
 *.py[cod]
@@ -10,30 +8,18 @@ venv/
 .env/
 .venv/
 
-# Distribution / packaging
-build/
-dist/
-*.egg-info/
-
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Logs
+# Logs (if any)
 *.log
 
 # SQLite databases (if any)
 *.sqlite3
 
-# IDEs (optional)
-.vscode/
-.idea/
+# Large or intermediate data files (optional)
+# *.csv
+# *.hdf5
 
-# Type checker caches
-.mypy_cache/
-.dmypy.json
-.pyre/
-.pytype/
-
-# Miscellaneous
-*.bak
-*.tmp
+# Blender or simulation files (optional)
+# *.blend
