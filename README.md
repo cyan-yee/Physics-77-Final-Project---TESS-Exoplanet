@@ -8,27 +8,27 @@
 # cd Physics-77-Final-Project---TESS-Exoplanet
 
 # 2. Create Virtual Environment, use:
-# python -m venv venv
+# python -m venv venv --> For Windows
 
-# 3. Activate Virtual Environemnt, use:
+# 3. Activate Virtual Environment, use:
 # venv\Scripts\activate
 
 # 4. Install Dependencies, use:
 # pip install -r requirements.txt
 
 # 5. Create your own branch to work on, use:
-# git checkout -b feature/your-feature-name
+# git checkout -b (branch name)
 
-# 6. Commit your changes, use:
+# 6. Making changes + committing them, use:
 # git add .
-# git commit -m "Add feature description"
+# git commit -m "Updates on what you did"
 
-# 7. Push your branch, so we can all see it:
-# git push origin feature/your-feature-name
+# 7. Push your changes back to main branch, so we can all see it:
+# git push origin (branch name)
 
 # -------------------------------------
 # General Notes:
 
 # pull latest changes using:
 # git checkout main
-# git pull
+# git pull origin main
