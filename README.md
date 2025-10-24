@@ -6,14 +6,13 @@ Group Members: Cyan Yee, Kiran John, Hana Zitnanska, Isaac Chan, Jonathan Pan
 Our research question is: "Can we show the tidal orbital decay of hot Jupiters through 3D simulations?" Using measured data from the Transiting Exoplanets Survey Satellites (TESS), we will process light curves to remove background noise and calculate orbital parameters for selected exoplanets. We aim to produce two 3D models: one for an exoplanet known to exhibit orbital decay, and one for an exoplanet that does not. By comparing these models, we investigate the dynamics of tidal orbital decay.
 
 # Deliverables: 
-- -3D animation of exoplanet orbits based on calculated orbital radii and planet radii  
+- 3D animation of exoplanet orbits based on calculated orbital radii and planet radii  
 - Light curve plots with best-fit models using least squares regression, including residuals and chi-squared analysis  
 
-# Methods & Tools:
-# (this is also in the requirements.txt)
+# Methods & Tools (this is also in the requirements.txt):
 - Scientific Libaries used: NumPy, SciPy, Matplotlib, Pandas  
 - Astronomy data analysis: Astropy, Lightkurve  
-- Interactive 3D visualization: Plotly (quick for data disualization), VPython
+- Interactive 3D visualization: Plotly (quick for data disualization), VPython, Tqdm (to see progress bar, will be useful for large data sets), Seaborn
 - Regression and model fitting: curve_fit  
 - Analysis: Jupyter notebooks
 
