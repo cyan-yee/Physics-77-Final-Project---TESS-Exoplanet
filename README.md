@@ -3,7 +3,7 @@
 Group Members: Cyan Yee, Kiran John, Hana Zitnanska, Isaac Chan, Jonathan Pan
 
 # Project Overview: 
-Our research question is: "Can we show the tidal orbital decay of hot Jupiters through 3D simulations?" Using measured data from the Transiting Exoplanets Survey Satellites (TESS), we process light curves to remove background noise and calculate orbital parameters for selected exoplanets. We aim to produce two 3D models: one for an exoplanet known to exhibit orbital decay, and one for an exoplanet that does not. By comparing these models, we investigate the dynamics of tidal orbital decay.
+Our research question is: "Can we show the tidal orbital decay of hot Jupiters through 3D simulations?" Using measured data from the Transiting Exoplanets Survey Satellites (TESS), we will process light curves to remove background noise and calculate orbital parameters for selected exoplanets. We aim to produce two 3D models: one for an exoplanet known to exhibit orbital decay, and one for an exoplanet that does not. By comparing these models, we investigate the dynamics of tidal orbital decay.
 
 # Deliverables: 
 - -3D animation of exoplanet orbits based on calculated orbital radii and planet radii  
