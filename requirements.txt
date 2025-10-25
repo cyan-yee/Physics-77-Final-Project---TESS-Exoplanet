@@ -7,6 +7,7 @@ pandas
 # Astronomy & data analysis
 astropy
 lightkurve
+batman
 tqdm # for progress bars on large data sets
 
 # Visualization and notebooks (to work in)
