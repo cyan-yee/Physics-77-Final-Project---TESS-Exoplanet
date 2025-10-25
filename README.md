@@ -11,7 +11,7 @@ Our research question is: "Can we show the tidal orbital decay of hot Jupiters t
 
 # Methods & Tools (this is also in the requirements.txt):
 - Scientific Libaries used: NumPy, SciPy, Matplotlib, Pandas  
-- Astronomy data analysis: Astropy, Lightkurve  
+- Astronomy data analysis: Astropy, Lightkurve , batman 
 - Interactive 3D visualization: Plotly (quick for data disualization), VPython, Tqdm (to see progress bar, will be useful for large data sets), Seaborn
 - Regression and model fitting: curve_fit  
 - Analysis: Jupyter notebooks
