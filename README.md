@@ -1,4 +1,5 @@
 # Physics 77: Final Project TESS Exoplanet
+# Analyzing Exoplanet Orbits Using TESS
 
 Group Members: Cyan Yee, Kiran John, Hana Zitnanska, Isaac Chan, Jonathan Pan
 
