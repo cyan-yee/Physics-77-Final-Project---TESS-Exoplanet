@@ -1,7 +1,7 @@
 # Physics 77: Final Project TESS Exoplanet
 # Analyzing Exoplanet Orbits Using TESS
 
-Group Members: Cyan Yee, Kiran John, Hana Zitnanska, Isaac Chan, Jonathan Pan
+Group Members: Isaac Chan, Kiran John, Jonathan Pan, Cyan Yee, Hana Zitnanska
 
 # Project Overview: 
 The purpose of this project is to investigate whether computational techniques applied to TESS Full Frame Images (FFIs) can identify transit events with incomplete orbital information and use physical transit modeling (batman) combined with Markov Chain Monte Carlo (MCMC) sampling to recover or refine key parameters such as period, radius ratio, impact parameter, transit mid-time, and eccentricity. As TESS often produces incomplete or noisy data due to short observing windows, we aim to increase the accuracy of the orbital parameters that help understand the physical properties of given exoplanets. To do so, we extract light curves from TESS FFI using TLS to detect transit signals and estimate initial parameters. Instead of using a more frequent BLS method that allows more flexibility to missing parameters, we relied on the TLS method that provides more realistic transit shapes and, therefore, higher precision. Our project was limited to light curves dominated by a single host star. In conclusion, the missing parameters can be approximated without significantly biasing detections.
